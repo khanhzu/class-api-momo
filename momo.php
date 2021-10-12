@@ -1,5 +1,3 @@
-
-
 <?php
 
 $m = new momo();
